@@ -1,1 +1,1 @@
-# minii.github.io
+# studio-minii.github.io
